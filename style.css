@@ -133,6 +133,9 @@ ul{
     body{
         text-align: center;
     }
+    .page-width{
+        width: 100%;
+    }
     .div-right{
         text-align: center;
     }
